@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Enariel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Enariel/Enariel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# FuchsFarbe Studios
+## Introdcution
+- 👋 Hello, my name is Oliver otherwise known as @Enariel or @FuchsFarbe Studios
+## Interests
+- Game Development
+- .Net framework
+- SQL DB
+- Video Games
+- C# Programming
+## Goals
+- Develop intuitive .Net web applications
+## Seeking
+- I'd welcome anyone who wants to join my large project startup.
+## Reach me
+- fuchsfarbeart@outlook.com
+- fuchsfarbeart@gmail.com
+- fuchsfarbeart@epochgen.com
+- report@epochgen.com
+- contact@epochgen.com
