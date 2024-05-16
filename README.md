@@ -15,7 +15,7 @@
 - Create robust .Net APIs
 - Develop a website using Blazor and C#
 ## Seeking
-- I'd welcome anyone who wants to join my WorBi or Unity projects.
+- I'd welcome anyone who wants to join my projects or collaborate on theirs.
 ## Reach me
 - fuchsfarbeart@outlook.com
 - fuchsfarbeart@gmail.com
